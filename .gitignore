@@ -1,4 +1,12 @@
+# Eclipse Generated Files
+.project
+.classpath
+.settings/
+
+# Output
 *.class
+bin
+target
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
